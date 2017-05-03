@@ -1,4 +1,4 @@
 # SpaceShip
 Modular 2D Space ship creating game.
-##Undecided
+## Undecided
 SinglePlayer vs Multiplayer
