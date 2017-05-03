@@ -1,5 +1,9 @@
+*.VC.db
+Content/StarterContent/
+
 # Visual Studio 2015 user specific files
 .vs/
+
 
 # Compiled Object files
 *.slo
@@ -60,3 +64,4 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
